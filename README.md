@@ -1,3 +1,3 @@
-Student Website using HTML,CSS,Java, Mysql, JPA, JPQL
-
 # Student-Website
+
+Student Website using HTML,CSS,Java, Mysql, JPA, JPQL
